@@ -446,7 +446,6 @@ header nav{
 .head{
     height: 750px; 
     width: 100%;
-    background-position: cover;
     background: url(../image/hero.png);
 
 }
