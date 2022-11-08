@@ -1,7 +1,11 @@
-#df {
-    font-size: 200px;
-    height: 100px;
-    
+
+#df{
+    width: 30%;
+    height: 40px;
+}
+#df2{
+    width: 25%;
+    height: 40px;
 }
 #taiwo{
     width: 20px;
@@ -19,12 +23,16 @@ ul{
     margin: 0;
     padding: 0;
 }
+*{
+    margin: 0;
+    padding: 0;
+}
 header #mane{
     display: flex;
     flex-flow: row nowrap;
      align-content: center; 
     justify-content: space-around;
-    margin-top: 30px;
+    /* margin-top: 30px; */
     margin-bottom: 3rem;
 }
 #logo{
@@ -100,7 +108,7 @@ header li{
 #wada{
     float: left;
     width: 50%;
-    height: 60px;
+    height: 63px;
     font-size: 30px;
     border: none;
     padding-left: 30px;
@@ -229,7 +237,7 @@ h1{
     
 }
 .built p{
-    font-size: 1.2rem;
+    font-size: 1em;
 }
 
 
@@ -272,10 +280,6 @@ h1{
     color: #fff;
 }
 
-#df{
-    width: 20%;
-    height: 40px;
-}
 
 
 .comp{
@@ -364,7 +368,7 @@ h1{
         display: flex;
         flex-flow: row nowrap; 
         justify-content: space-evenly;
-        margin-top: 5px;
+        /* margin-top: 5px; */
         margin-bottom: 6rem;
         width: 100%;
         
@@ -553,7 +557,7 @@ h1{
     
 }
 .built p{
-    font-size: 6px;
+    font-size: 0.4em;
 }
 #jk2{
     width: 20%
@@ -583,7 +587,7 @@ h1{
 #blue .ik{
     width: 35%;
     float: left;
-    height: 20px;
+    height: 22px;
     border: none;
     padding-left: 30px;
     margin-left: 5rem;
@@ -609,7 +613,7 @@ h1{
 justify-content: space-evenly;
 justify-items: flex-start;
     width: 100%; 
-    background:  #f8f4f4;
+    background:  #f5f1f1;
     margin-right: 10rem;
     border-bottom: #cac4a5 1px solid;
 
@@ -645,7 +649,7 @@ justify-items: flex-start;
 
 #mon{
     width: 6rem;
-    height: 40px;
+    height: 43px;
     float: left;
     border: none;
     position: relative;
@@ -673,7 +677,7 @@ justify-items: flex-start;
     padding-right: 0px;
     background:  #4a8faa;
     border: none;
-    color: #fff;
+    color: rgb(253, 245, 245);
     font-size: 10px;
 }
 
@@ -700,6 +704,14 @@ justify-items: flex-start;
     list-style: none;
     padding: 0.3em;
     font-size: 8px;
+}
+#df{
+    width: 20%;
+    height: 10px;
+}
+#df2{
+    width: 20%;
+    height: 10px;
 }
 
 
